@@ -1,0 +1,14 @@
+TABLA 1.1: COMPARATIVA POR OBSERVADOR Y CONSOLIDADO GLOBAL PONDERADO (n = 43 PEDIDOS),,,,,,,,
+"Proyecto AFM Electro NICO (Grupo TB4 - UTU 2026) | Muestra: Gustavo (n=13), Ana (n=14), Melina (n=16) | Total Operación: 15.479 s (258,0 min)",,,,,,,,
+,,,,,,,,
+N.º,Cód.,Descripción de la Operación (Elemento Logístico),Categoría HTC / Lean,Prom. Gustavo (n=13) [s],Prom. Ana (n=14) [s],Prom. Meli (n=16) [s],TOTAL GLOBAL PONDERADO (n=43) [s],% del Ciclo Global
+1,E1,Recepción de orden en mostrador o lectura en papel,MANUAL (NNVA / VA),"86,7","98,0","34,0","70,8","19,7%"
+2,E2,Desplazamiento inicial hacia estantería / dep. contiguo,DESPLAZ. (Caminata),"62,5","37,5","46,7","48,5","13,5%"
+3,E3,Búsqueda visual del SKU por memoria humana,ESPERA (Muda),"47,2","57,9","17,4","39,6","11,0%"
+4,E4,Remoción de obstáculos (correr cajas en pasillo saturado),ESPERA (Muda),"26,2","29,5","5,7","19,6","5,5%"
+5,E5,Picking / Extracción física o corte fraccionado de cable,MANUAL (VA Puro),"17,7","112,9","51,7","61,3","17,0%"
+6,E6,Desplazamiento de retorno hacia mesa o mostrador,DESPLAZ. (Caminata),"26,8","11,9","20,2","19,5","5,4%"
+7,E7,"Verificación visual cruzada, consolidación y empaque",MANUAL (VA Puro),"38,5","2,1","35,8","25,6","7,1%"
+8,E8,Registro en software a medida e impresión de factura,AUTO (Sistema),"73,8","73,6","77,3","75,0","20,8%"
+TIEMPO DE CICLO TOTAL (CYCLE TIME EN SEGUNDOS),,,,"379,4","423,4","288,8","360,0","100,0%"
+TIEMPO DE CICLO TOTAL EN MINUTOS DECIMALES (Segundos / 60),,,,"6,32","7,06","4,81","6,00","Umbral exacto (6,00 min)"

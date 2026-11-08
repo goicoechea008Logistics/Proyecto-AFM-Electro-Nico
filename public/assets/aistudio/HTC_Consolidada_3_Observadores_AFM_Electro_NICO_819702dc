@@ -1,0 +1,45 @@
+PROYECTO AFM ELECTRO NICO (GRUPO TB4 - UTU) — RELEVAMIENTO Y HTC: GUSTAVO LESCHENKO (13 OBSERVACIONES),,,,,,,,,,,,,,,,,,
+PARTE 1: Base de Tiempos Cronometrados en Segundos (s) | PARTE 2: Hoja de Trabajo Combinado (HTC Ponderada y Activa) vinculada dinámicamente,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Código,Descripción del Elemento de Trabajo Logístico,Obs 1,Obs 2,Obs 3,Obs 4,Obs 5,Obs 6,Obs 7,Obs 8,Obs 9,Obs 10,Obs 11,Obs 12,Obs 13,Mín. Activo (s),Máximo (s),Prom. Ponderado (13 Obs),Prom. Activo (>0)
+,Operario Observado,Nico,Mostrador,Mostrador,Agustina,Mostrador,Mostrador,Agustina,Mostrador,Nico,Nico,Mostrador,Mostrador,Nico,—,—,—,—
+,Familia de Producto / Motivo,Varios,Gaveta,Devolución,Varios,Pago Factura,Varios,Gaveta,Gaveta,Varios,Bazar (Radio),LED Sirio,Varios ($4528),Cerradura (Inex.),—,—,—,—
+E1,Recepción de orden en mostrador o lectura de pedido manual en papel,652,15,20,180,25,20,50,60,20,0,15,60,10,"10,0","652,0","86,7","93,9"
+E2,Desplazamiento inicial desde mostrador hacia estantería / dep. contiguo,120,20,20,21,0,35,35,36,360,120,20,25,0,"20,0","360,0","62,5","73,8"
+E3,Búsqueda visual del SKU por memoria humana (alerta > 360 s),0,10,120,0,0,0,107,90,120,47,0,120,0,"10,0","120,0","47,2","87,7"
+E4,Remoción de obstáculos (correr cajas/bultos en pasillo saturado),0,60,0,125,0,0,155,0,0,0,0,0,0,"60,0","155,0","26,2","113,3"
+E5,Picking / Extracción física o corte fraccionado de cable por metro,0,50,0,0,0,60,0,0,0,0,0,120,0,"50,0","120,0","17,7","76,7"
+E6,Desplazamiento de retorno hacia mesa de armado o mostrador,30,10,20,80,0,60,35,25,0,50,10,28,0,"10,0","80,0","26,8","34,8"
+E7,"Verificación visual cruzada, consolidación y empaque del bulto",140,0,15,300,0,20,15,0,0,0,10,0,0,"10,0","300,0","38,5","83,3"
+E8,Registro en software a medida e impresión de factura (descuento stock),50,60,0,120,35,20,140,0,30,0,45,460,0,"20,0","460,0","73,8","106,7"
+TOTAL (s),TIEMPO DE CICLO TOTAL DEL PEDIDO (Segundos),992,225,195,826,60,215,537,211,530,217,100,813,10,"10,0","992,0","379,3","670,2"
+TOTAL (min),TIEMPO DE CICLO TOTAL EN MINUTOS (Segundos / 60),"16,53","3,75","3,25","13,77","1,00","3,58","8,95","3,52","8,83","3,62","1,67","13,55","0,17","0,17","16,53","6,32","11,17"
+ANOMALÍA,Código de Anomalía / Demora Observado (D1 a D9),D4 / D2,D3,D2,D4,—,D2,Glitch (D5),D1,D2 / D4 / D5,D2,—,D4 / D2 / D3,—,"8/10 ventas efectivas c/ anomalía (D2=6, D4=4, D3=2, D5=2, D1=1)",,,
+,,,,,,,,,,,,,,,,,,
+HOJA DE TRABAJO COMBINADO (HTC - GUSTAVO LESCHENKO) — ESCENARIO 1: CICLO PROMEDIO PONDERADO (13 OBS.),,,,,,,,,,,,,,,,,,
+N.º Op.,Cód.,Descripción de la Operación (Elemento Logístico),MANUAL: Valor Agregado (s),AUTO: Sistema / Software (s),ESPERA: Búsqueda y Obstáculos (s),DESPLAZ.: Caminata Interna (s),TOTAL ELEMENTO (s),Escala Inicio (s),Escala Fin (s),% del Ciclo,,,,,,,,
+1,E1,Recepción de orden en mostrador o lectura de pedido manual en papel,"86,7","0,0","0,0","0,0","86,7","0,0","86,7","22,9%",,,,,,,,
+2,E2,Desplazamiento inicial desde mostrador hacia estantería / dep. contiguo,"0,0","0,0","0,0","62,5","62,5","86,7","149,2","16,5%",,,,,,,,
+3,E3,Búsqueda visual del SKU por memoria humana (alerta > 360 s),"0,0","0,0","47,2","0,0","47,2","149,2","196,4","12,5%",,,,,,,,
+4,E4,Remoción de obstáculos (correr cajas/bultos en pasillo saturado),"0,0","0,0","26,2","0,0","26,2","196,4","222,5","6,9%",,,,,,,,
+5,E5,Picking / Extracción física o corte fraccionado de cable por metro,"17,7","0,0","0,0","0,0","17,7","222,5","240,2","4,7%",,,,,,,,
+6,E6,Desplazamiento de retorno hacia mesa de armado o mostrador,"0,0","0,0","0,0","26,8","26,8","240,2","267,0","7,1%",,,,,,,,
+7,E7,"Verificación visual cruzada, consolidación y empaque del bulto","38,5","0,0","0,0","0,0","38,5","267,0","305,5","10,1%",,,,,,,,
+8,E8,Registro en software a medida e impresión de factura (descuento stock),"0,0","73,8","0,0","0,0","73,8","305,5","379,3","19,5%",,,,,,,,
+TOTALES CICLO PROMEDIO PONDERADO - GUSTAVO LESCHENKO (Segundos),,,"142,8","73,8","73,4","89,2","379,3","0,0","379,3","100,0%",,,,,,,,
+TOTALES EN MINUTOS DECIMALES (Segundos / 60),,,"2,38","1,23","1,22","1,49","6,32","0,00","6,32","Umbral: 6,00 min",,,,,,,,
+PARTICIPACIÓN PORCENTUAL SOBRE EL CYCLE TIME (%),,,"37,7%","19,5%","19,3%","23,5%","100,0%","Muda (Búsqueda + Caminata): 42,9%",,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+HOJA DE TRABAJO COMBINADO (HTC - GUSTAVO LESCHENKO) — ESCENARIO 2: CICLO ACTIVO CON FRICCIÓN (PROMEDIO CUANDO OCURRE > 0),,,,,,,,,,,,,,,,,,
+N.º Op.,Cód.,Descripción de la Operación (Elemento Logístico),MANUAL: Valor Agregado (s),AUTO: Sistema / Software (s),ESPERA: Búsqueda y Obstáculos (s),DESPLAZ.: Caminata Interna (s),TOTAL ELEMENTO (s),Escala Inicio (s),Escala Fin (s),% del Ciclo,,,,,,,,
+1,E1,Recepción de orden en mostrador o lectura de pedido manual en papel,"93,9","0,0","0,0","0,0","93,9","0,0","93,9","14,0%",,,,,,,,
+2,E2,Desplazamiento inicial desde mostrador hacia estantería / dep. contiguo,"0,0","0,0","0,0","73,8","73,8","93,9","167,7","11,0%",,,,,,,,
+3,E3,Búsqueda visual del SKU por memoria humana (alerta > 360 s),"0,0","0,0","87,7","0,0","87,7","167,7","255,4","13,1%",,,,,,,,
+4,E4,Remoción de obstáculos (correr cajas/bultos en pasillo saturado),"0,0","0,0","113,3","0,0","113,3","255,4","368,8","16,9%",,,,,,,,
+5,E5,Picking / Extracción física o corte fraccionado de cable por metro,"76,7","0,0","0,0","0,0","76,7","368,8","445,4","11,4%",,,,,,,,
+6,E6,Desplazamiento de retorno hacia mesa de armado o mostrador,"0,0","0,0","0,0","34,8","34,8","445,4","480,2","5,2%",,,,,,,,
+7,E7,"Verificación visual cruzada, consolidación y empaque del bulto","83,3","0,0","0,0","0,0","83,3","480,2","563,6","12,4%",,,,,,,,
+8,E8,Registro en software a medida e impresión de factura (descuento stock),"0,0","106,7","0,0","0,0","106,7","563,6","670,2","15,9%",,,,,,,,
+TOTALES CICLO ACTIVO CON FRICCIÓN - GUSTAVO LESCHENKO (Segundos),,,"253,9","106,7","201,0","108,6","670,2","0,0","670,2","100,0%",,,,,,,,
+TOTALES CICLO ACTIVO EN MINUTOS (Segundos / 60),,,"4,23","1,78","3,35","1,81","11,17","0,00","11,17",Pedido Complejo,,,,,,,,
+PARTICIPACIÓN PORCENTUAL EN CICLO ACTIVO (%),,,"37,9%","15,9%","30,0%","16,2%","100,0%","Muda (Búsqueda + Caminata): 46,2%",,,,,,,,,,

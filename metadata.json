@@ -1,0 +1,6 @@
+{
+  "name": "Proyecto AFM - Electro NICO (Grupo TB4 - UTU)",
+  "description": "Simulador interactivo 2D/3D de layout, análisis de tiempos HTC (n=43), Pareto de anomalías y entropía de Shannon para Electro NICO (Grupo TB4 - UTU).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,1664 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 7 0 R >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 8 0 R >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Length 13386 >>
+stream
+0.059 0.090 0.165 rg
+28.0 764.0 539.0 54.0 re f
+BT
+/F2 13.0 Tf
+1.000 1.000 1.000 rg
+40.0 800.0 Td
+(PROYECTO AFM - ELECTRO NICO \(GRUPO TB4 - UTU\)) Tj
+ET
+BT
+/F1 8.5 Tf
+0.750 0.820 0.920 rg
+40.0 786.0 Td
+(Informe T\351cnico de Simulaci\363n Operativa 2D/3D \(n = 43\), Factor de Dispersi\363n, Entrop\355a y KPIs) Tj
+ET
+BT
+/F2 8.0 Tf
+0.220 0.850 0.620 rg
+40.0 772.0 Td
+(MODO ACTIVO: ESTADO ACTUAL \(AS-IS: CA\323TICO\)   |   Exportado: 06/11/2026, 04:14 a. m.) Tj
+ET
+0.910 0.940 0.980 rg
+28.0 736.0 539.0 18.0 re f
+BT
+/F2 9.0 Tf
+0.060 0.100 0.200 rg
+35.0 742.0 Td
+(1. ESTADO ACTUAL DEL SIMULADOR DE OPERARIOS Y RECORRIDO POR PASILLOS / ABERTURAS CAD) Tj
+ET
+0.70 w
+0.780 0.830 0.890 RG
+28.0 646.0 539.0 90.0 re S
+BT
+/F2 8.5 Tf
+0.100 0.150 0.250 rg
+36.0 722.0 Td
+(Estrato HTC Seleccionado: Global Ponderado \(n = 43 pedidos \267 15.479 s\)) Tj
+ET
+BT
+/F1 8.0 Tf
+0.150 0.200 0.300 rg
+36.0 709.0 Td
+(Etapa Activa del Ciclo: E2 - Caminata inicial a estanter\355a/dep\363sito \(Muda\) | Global: 48,5 s \(13,5%\)) Tj
+ET
+BT
+/F2 8.5 Tf
+0.040 0.380 0.580 rg
+36.0 695.0 Td
+(Medici\363n Individual Activa: Obs #1/43 \(Gustavo Leschenko Obs #1\) \267 Operario: Nico) Tj
+ET
+BT
+/F1 7.8 Tf
+0.150 0.200 0.300 rg
+36.0 682.0 Td
+(Familia / Sector: Varios \(Asesoramiento + Dep\363sito\) \(SEC3\) \267 Tiempo Pedido: 992 s \(16,53 min\) \267 Etapa E2: 120 s \267 Falla: D4 / D2) Tj
+ET
+BT
+/F1 7.5 Tf
+0.250 0.300 0.400 rg
+36.0 669.0 Td
+(Desglose E1..E8 \(Obs #1\): E1=652s | E2=120s | E3=0s | E4=0s | E5=0s | E6=30s | E7=140s | E8=50s) Tj
+ET
+BT
+/F2 7.6 Tf
+0.550 0.320 0.040 rg
+36.0 654.0 Td
+(Ruta Continua por Pasillos y Vanos CAD: Mostrador Recepci\363n -> Mostrador Empaque -> Vano A4 -> Pasillo Este Sal\363n S2 -> Pasillo Principal S2 -> Pasi) Tj
+ET
+0.910 0.940 0.980 rg
+28.0 618.0 539.0 18.0 re f
+BT
+/F2 9.0 Tf
+0.060 0.100 0.200 rg
+35.0 624.0 Td
+(2. HOJA DE TRABAJO COMBINADO CONSOLIDADA \(HTC \267 n = 43 PEDIDOS \267 15.479 s / 258,0 min\)) Tj
+ET
+0.120 0.160 0.240 rg
+28.0 600.0 539.0 16.0 re f
+BT
+/F2 7.5 Tf
+1.000 1.000 1.000 rg
+33.0 605.0 Td
+(Etapa) Tj
+ET
+BT
+/F2 7.5 Tf
+1.000 1.000 1.000 rg
+64.0 605.0 Td
+(Descripci\363n Operativa del Ciclo) Tj
+ET
+BT
+/F2 7.5 Tf
+1.000 1.000 1.000 rg
+228.0 605.0 Td
+(Clasif.) Tj
+ET
+BT
+/F2 7.5 Tf
+1.000 1.000 1.000 rg
+276.0 605.0 Td
+(Global \(43\)) Tj
+ET
+BT
+/F2 7.5 Tf
+1.000 1.000 1.000 rg
+328.0 605.0 Td
+(% Ciclo) Tj
+ET
+BT
+/F2 7.5 Tf
+1.000 1.000 1.000 rg
+366.0 605.0 Td
+(Gustavo\(13\)) Tj
+ET
+BT
+/F2 7.5 Tf
+1.000 1.000 1.000 rg
+420.0 605.0 Td
+(Ana \(14\)) Tj
+ET
+BT
+/F2 7.5 Tf
+1.000 1.000 1.000 rg
+462.0 605.0 Td
+(Melina \(16\)) Tj
+ET
+BT
+/F2 7.5 Tf
+0.400 0.950 0.700 rg
+515.0 605.0 Td
+(Meta To-Be) Tj
+ET
+0.40 w
+0.840 0.870 0.910 RG
+28.0 584.0 539.0 16.0 re S
+BT
+/F2 7.5 Tf
+0.050 0.250 0.480 rg
+33.0 589.0 Td
+(E1) Tj
+ET
+BT
+/F1 7.5 Tf
+0.100 0.140 0.220 rg
+64.0 589.0 Td
+(Recepci\363n orden en papel \(Mostrador\)) Tj
+ET
+BT
+/F2 7.2 Tf
+0.080 0.450 0.200 rg
+228.0 589.0 Td
+(Manual) Tj
+ET
+BT
+/F2 7.5 Tf
+0.100 0.140 0.220 rg
+276.0 589.0 Td
+(70,8 s) Tj
+ET
+BT
+/F1 7.5 Tf
+0.250 0.300 0.400 rg
+328.0 589.0 Td
+(19,7%) Tj
+ET
+BT
+/F1 7.5 Tf
+0.200 0.250 0.350 rg
+366.0 589.0 Td
+(86,7 s) Tj
+ET
+BT
+/F1 7.5 Tf
+0.200 0.250 0.350 rg
+420.0 589.0 Td
+(98,0 s) Tj
+ET
+BT
+/F1 7.5 Tf
+0.200 0.250 0.350 rg
+462.0 589.0 Td
+(34,0 s) Tj
+ET
+BT
+/F2 7.5 Tf
+0.040 0.480 0.320 rg
+515.0 589.0 Td
+(45,0 s) Tj
+ET
+0.880 0.950 1.000 rg
+28.0 568.0 539.0 16.0 re f
+0.40 w
+0.840 0.870 0.910 RG
+28.0 568.0 539.0 16.0 re S
+BT
+/F2 7.5 Tf
+0.050 0.250 0.480 rg
+33.0 573.0 Td
+(E2) Tj
+ET
+BT
+/F2 7.5 Tf
+0.100 0.140 0.220 rg
+64.0 573.0 Td
+(Caminata inicial a estanter\355a/dep\363si) Tj
+ET
+BT
+/F2 7.2 Tf
+0.750 0.150 0.200 rg
+228.0 573.0 Td
+(Muda) Tj
+ET
+BT
+/F2 7.5 Tf
+0.100 0.140 0.220 rg
+276.0 573.0 Td
+(48,5 s) Tj
+ET
+BT
+/F1 7.5 Tf
+0.250 0.300 0.400 rg
+328.0 573.0 Td
+(13,5%) Tj
+ET
+BT
+/F1 7.5 Tf
+0.200 0.250 0.350 rg
+366.0 573.0 Td
+(62,5 s) Tj
+ET
+BT
+/F1 7.5 Tf
+0.200 0.250 0.350 rg
+420.0 573.0 Td
+(37,5 s) Tj
+ET
+BT
+/F1 7.5 Tf
+0.200 0.250 0.350 rg
+462.0 573.0 Td
+(46,7 s) Tj
+ET
+BT
+/F2 7.5 Tf
+0.040 0.480 0.320 rg
+515.0 573.0 Td
+(17,0 s) Tj
+ET
+0.40 w
+0.840 0.870 0.910 RG
+28.0 552.0 539.0 16.0 re S
+BT
+/F2 7.5 Tf
+0.050 0.250 0.480 rg
+33.0 557.0 Td
+(E3) Tj
+ET
+BT
+/F1 7.5 Tf
+0.100 0.140 0.220 rg
+64.0 557.0 Td
+(B\372squeda visual por memoria \(Sin cod) Tj
+ET
+BT
+/F2 7.2 Tf
+0.750 0.150 0.200 rg
+228.0 557.0 Td
+(Muda) Tj
+ET
+BT
+/F2 7.5 Tf
+0.100 0.140 0.220 rg
+276.0 557.0 Td
+(39,6 s) Tj
+ET
+BT
+/F1 7.5 Tf
+0.250 0.300 0.400 rg
+328.0 557.0 Td
+(11,0%) Tj
+ET
+BT
+/F1 7.5 Tf
+0.200 0.250 0.350 rg
+366.0 557.0 Td
+(47,2 s) Tj
+ET
+BT
+/F1 7.5 Tf
+0.200 0.250 0.350 rg
+420.0 557.0 Td
+(57,9 s) Tj
+ET
+BT
+/F1 7.5 Tf
+0.200 0.250 0.350 rg
+462.0 557.0 Td
+(17,4 s) Tj
+ET
+BT
+/F2 7.5 Tf
+0.040 0.480 0.320 rg
+515.0 557.0 Td
+(13,9 s) Tj
+ET
+0.970 0.980 0.990 rg
+28.0 536.0 539.0 16.0 re f
+0.40 w
+0.840 0.870 0.910 RG
+28.0 536.0 539.0 16.0 re S
+BT
+/F2 7.5 Tf
+0.050 0.250 0.480 rg
+33.0 541.0 Td
+(E4) Tj
+ET
+BT
+/F1 7.5 Tf
+0.100 0.140 0.220 rg
+64.0 541.0 Td
+(Remoci\363n de cajas/obst\341culos en pasi) Tj
+ET
+BT
+/F2 7.2 Tf
+0.750 0.150 0.200 rg
+228.0 541.0 Td
+(Muda) Tj
+ET
+BT
+/F2 7.5 Tf
+0.100 0.140 0.220 rg
+276.0 541.0 Td
+(19,6 s) Tj
+ET
+BT
+/F1 7.5 Tf
+0.250 0.300 0.400 rg
+328.0 541.0 Td
+(5,5%) Tj
+ET
+BT
+/F1 7.5 Tf
+0.200 0.250 0.350 rg
+366.0 541.0 Td
+(26,2 s) Tj
+ET
+BT
+/F1 7.5 Tf
+0.200 0.250 0.350 rg
+420.0 541.0 Td
+(29,5 s) Tj
+ET
+BT
+/F1 7.5 Tf
+0.200 0.250 0.350 rg
+462.0 541.0 Td
+(5,7 s) Tj
+ET
+BT
+/F2 7.5 Tf
+0.040 0.480 0.320 rg
+515.0 541.0 Td
+(0,0 s) Tj
+ET
+0.40 w
+0.840 0.870 0.910 RG
+28.0 520.0 539.0 16.0 re S
+BT
+/F2 7.5 Tf
+0.050 0.250 0.480 rg
+33.0 525.0 Td
+(E5) Tj
+ET
+BT
+/F1 7.5 Tf
+0.100 0.140 0.220 rg
+64.0 525.0 Td
+(Picking / corte fraccionado de cable) Tj
+ET
+BT
+/F2 7.2 Tf
+0.080 0.450 0.200 rg
+228.0 525.0 Td
+(Manual VA) Tj
+ET
+BT
+/F2 7.5 Tf
+0.100 0.140 0.220 rg
+276.0 525.0 Td
+(61,3 s) Tj
+ET
+BT
+/F1 7.5 Tf
+0.250 0.300 0.400 rg
+328.0 525.0 Td
+(17,0%) Tj
+ET
+BT
+/F1 7.5 Tf
+0.200 0.250 0.350 rg
+366.0 525.0 Td
+(17,7 s) Tj
+ET
+BT
+/F1 7.5 Tf
+0.200 0.250 0.350 rg
+420.0 525.0 Td
+(112,9 s) Tj
+ET
+BT
+/F1 7.5 Tf
+0.200 0.250 0.350 rg
+462.0 525.0 Td
+(51,7 s) Tj
+ET
+BT
+/F2 7.5 Tf
+0.040 0.480 0.320 rg
+515.0 525.0 Td
+(42,0 s) Tj
+ET
+0.970 0.980 0.990 rg
+28.0 504.0 539.0 16.0 re f
+0.40 w
+0.840 0.870 0.910 RG
+28.0 504.0 539.0 16.0 re S
+BT
+/F2 7.5 Tf
+0.050 0.250 0.480 rg
+33.0 509.0 Td
+(E6) Tj
+ET
+BT
+/F1 7.5 Tf
+0.100 0.140 0.220 rg
+64.0 509.0 Td
+(Caminata de retorno a mostrador) Tj
+ET
+BT
+/F2 7.2 Tf
+0.750 0.150 0.200 rg
+228.0 509.0 Td
+(Muda) Tj
+ET
+BT
+/F2 7.5 Tf
+0.100 0.140 0.220 rg
+276.0 509.0 Td
+(19,5 s) Tj
+ET
+BT
+/F1 7.5 Tf
+0.250 0.300 0.400 rg
+328.0 509.0 Td
+(5,4%) Tj
+ET
+BT
+/F1 7.5 Tf
+0.200 0.250 0.350 rg
+366.0 509.0 Td
+(26,8 s) Tj
+ET
+BT
+/F1 7.5 Tf
+0.200 0.250 0.350 rg
+420.0 509.0 Td
+(11,9 s) Tj
+ET
+BT
+/F1 7.5 Tf
+0.200 0.250 0.350 rg
+462.0 509.0 Td
+(20,2 s) Tj
+ET
+BT
+/F2 7.5 Tf
+0.040 0.480 0.320 rg
+515.0 509.0 Td
+(6,8 s) Tj
+ET
+0.40 w
+0.840 0.870 0.910 RG
+28.0 488.0 539.0 16.0 re S
+BT
+/F2 7.5 Tf
+0.050 0.250 0.480 rg
+33.0 493.0 Td
+(E7) Tj
+ET
+BT
+/F1 7.5 Tf
+0.100 0.140 0.220 rg
+64.0 493.0 Td
+(Verificaci\363n y empaque en Mostrador) Tj
+ET
+BT
+/F2 7.2 Tf
+0.080 0.450 0.200 rg
+228.0 493.0 Td
+(Manual VA) Tj
+ET
+BT
+/F2 7.5 Tf
+0.100 0.140 0.220 rg
+276.0 493.0 Td
+(25,6 s) Tj
+ET
+BT
+/F1 7.5 Tf
+0.250 0.300 0.400 rg
+328.0 493.0 Td
+(7,1%) Tj
+ET
+BT
+/F1 7.5 Tf
+0.200 0.250 0.350 rg
+366.0 493.0 Td
+(38,5 s) Tj
+ET
+BT
+/F1 7.5 Tf
+0.200 0.250 0.350 rg
+420.0 493.0 Td
+(2,1 s) Tj
+ET
+BT
+/F1 7.5 Tf
+0.200 0.250 0.350 rg
+462.0 493.0 Td
+(35,8 s) Tj
+ET
+BT
+/F2 7.5 Tf
+0.040 0.480 0.320 rg
+515.0 493.0 Td
+(25,6 s) Tj
+ET
+0.970 0.980 0.990 rg
+28.0 472.0 539.0 16.0 re f
+0.40 w
+0.840 0.870 0.910 RG
+28.0 472.0 539.0 16.0 re S
+BT
+/F2 7.5 Tf
+0.050 0.250 0.480 rg
+33.0 477.0 Td
+(E8) Tj
+ET
+BT
+/F1 7.5 Tf
+0.100 0.140 0.220 rg
+64.0 477.0 Td
+(Registro en software a medida y fact) Tj
+ET
+BT
+/F2 7.2 Tf
+0.080 0.450 0.200 rg
+228.0 477.0 Td
+(Auto) Tj
+ET
+BT
+/F2 7.5 Tf
+0.100 0.140 0.220 rg
+276.0 477.0 Td
+(75,0 s) Tj
+ET
+BT
+/F1 7.5 Tf
+0.250 0.300 0.400 rg
+328.0 477.0 Td
+(20,8%) Tj
+ET
+BT
+/F1 7.5 Tf
+0.200 0.250 0.350 rg
+366.0 477.0 Td
+(73,8 s) Tj
+ET
+BT
+/F1 7.5 Tf
+0.200 0.250 0.350 rg
+420.0 477.0 Td
+(73,6 s) Tj
+ET
+BT
+/F1 7.5 Tf
+0.200 0.250 0.350 rg
+462.0 477.0 Td
+(77,3 s) Tj
+ET
+BT
+/F2 7.5 Tf
+0.040 0.480 0.320 rg
+515.0 477.0 Td
+(65,7 s) Tj
+ET
+0.120 0.160 0.240 rg
+28.0 454.0 539.0 18.0 re f
+BT
+/F2 7.5 Tf
+1.000 1.000 1.000 rg
+33.0 460.0 Td
+(TOTAL) Tj
+ET
+BT
+/F2 7.5 Tf
+1.000 1.000 1.000 rg
+64.0 460.0 Td
+(Ciclo Total Ponderado \(35,3% Muda f\355sica = 127,2 s\)) Tj
+ET
+BT
+/F2 7.5 Tf
+1.000 1.000 1.000 rg
+228.0 460.0 Td
+(100%) Tj
+ET
+BT
+/F2 7.5 Tf
+1.000 1.000 1.000 rg
+276.0 460.0 Td
+(360,0 s) Tj
+ET
+BT
+/F2 7.5 Tf
+0.800 0.860 0.950 rg
+328.0 460.0 Td
+(6,00 m) Tj
+ET
+BT
+/F2 7.5 Tf
+1.000 1.000 1.000 rg
+366.0 460.0 Td
+(379,3 s) Tj
+ET
+BT
+/F2 7.5 Tf
+1.000 1.000 1.000 rg
+420.0 460.0 Td
+(423,6 s) Tj
+ET
+BT
+/F2 7.5 Tf
+1.000 1.000 1.000 rg
+462.0 460.0 Td
+(288,6 s) Tj
+ET
+BT
+/F2 7.5 Tf
+0.400 0.950 0.700 rg
+512.0 460.0 Td
+(<= 216,0 s) Tj
+ET
+0.910 0.940 0.980 rg
+28.0 428.0 539.0 18.0 re f
+BT
+/F2 9.0 Tf
+0.060 0.100 0.200 rg
+35.0 434.0 Td
+(3. FACTOR DE DISPERSI\323N ESPACIAL/TEMPORAL Y MODELO ENTR\323PICO DE SHANNON \(H, Delta H, D_KL\)) Tj
+ET
+0.70 w
+0.780 0.830 0.890 RG
+28.0 330.0 539.0 98.0 re S
+BT
+/F2 8.2 Tf
+0.040 0.380 0.580 rg
+36.0 414.0 Td
+(Factor de Dispersi\363n Espacial Simulado \(FD_esp = k / k_opt\): 5,0x \(k = 5 sectores\) | \315ndice ID_esp = 100,0%) Tj
+ET
+BT
+/F1 7.8 Tf
+0.150 0.200 0.300 rg
+36.0 401.0 Td
+(Factor de Dispersi\363n Temporal Muestral \(n=43\): Media = 360,0 s | Desv. Est. \(sigma\) = 266,6 s | Coef. Variaci\363n CV = 74,1% \(Rango: 10s a 1398s\)) Tj
+ET
+BT
+/F1 8.0 Tf
+0.150 0.200 0.300 rg
+36.0 387.0 Td
+(? Entrop\355a Binaria de Stock H_b\(ERI=86%\): 0,5842 bits | Divergencia D_KL vs Meta ISO 9001 \(98%\): 0,2310 bits) Tj
+ET
+BT
+/F1 8.0 Tf
+0.150 0.200 0.300 rg
+36.0 374.0 Td
+(? Entrop\355a Espacial H_esp = log2\(5\): 2,322 bits \(As-Is: 2,000 a 2,322 bits en k=4..5 -> Meta To-Be: 0,000 bits en k=1\)) Tj
+ET
+BT
+/F1 8.0 Tf
+0.150 0.200 0.300 rg
+36.0 361.0 Td
+(? Entrop\355a del Ciclo Operativo H_ciclo: 1,876 bits \(93,8% de H_max=2,000 b\) -> Meta To-Be <= 1,350 bits \(D_KL = 0,1451 b\)) Tj
+ET
+BT
+/F2 8.0 Tf
+0.040 0.480 0.320 rg
+36.0 348.0 Td
+(? Neguentrop\355a Inyectada \(Delta H\): -0,4428 bits \(-75,80% reducci\363n del desorden informacional del inventario al pasar de ERI 86% a >= 98%\)) Tj
+ET
+BT
+/F1 8.0 Tf
+0.650 0.150 0.200 rg
+36.0 336.0 Td
+(? Frecuencia de Anomal\355as \(D1-D9\): 58,1% actual \(25/43 pedidos con falla; H\(P\)=0,9808 b\) -> Meta To-Be <= 10,0% \(D_KL = 1,0142 bits\)) Tj
+ET
+0.910 0.940 0.980 rg
+28.0 304.0 539.0 18.0 re f
+BT
+/F2 9.0 Tf
+0.060 0.100 0.200 rg
+35.0 310.0 Td
+(4. PARETO DE CUELLOS DE BOTELLA \(39 EVENTOS EN 25/43 PEDIDOS = 58,1%\) Y RECEPCI\323N TRUNCADA \(5 LOTES\)) Tj
+ET
+0.40 w
+0.850 0.880 0.920 RG
+28.0 285.0 539.0 16.0 re S
+BT
+/F2 7.5 Tf
+0.100 0.150 0.250 rg
+34.0 290.0 Td
+(1.\260 D3 / E4 - Pasillo obstruido y remoci\363n de cajas en el suelo) Tj
+ET
+BT
+/F2 7.5 Tf
+0.720 0.120 0.180 rg
+300.0 290.0 Td
+(11 casos \(28,2%\)) Tj
+ET
+BT
+/F1 6.9 Tf
+0.300 0.350 0.450 rg
+375.0 290.0 Td
+(11 eventos \(28,2%\) \267 Pasillos de 50 cm \(Sector 2\) y ...) Tj
+ET
+0.40 w
+0.850 0.880 0.920 RG
+28.0 269.0 539.0 16.0 re S
+BT
+/F2 7.5 Tf
+0.100 0.150 0.250 rg
+34.0 274.0 Td
+(2.\260 D5 - Ca\355da, lentitud o glitch en software a medida / PC ocupada) Tj
+ET
+BT
+/F2 7.5 Tf
+0.720 0.120 0.180 rg
+300.0 274.0 Td
+(10 casos \(25,6%\)) Tj
+ET
+BT
+/F1 6.9 Tf
+0.300 0.350 0.450 rg
+375.0 274.0 Td
+(10 casos \(25,6%\) \267 En sector Computadora/Mostrador \(...) Tj
+ET
+0.40 w
+0.850 0.880 0.920 RG
+28.0 253.0 539.0 16.0 re S
+BT
+/F2 7.5 Tf
+0.100 0.150 0.250 rg
+34.0 258.0 Td
+(3.\260 D2 - Consulta verbal por falta de se\361alizaci\363n y memoria) Tj
+ET
+BT
+/F2 7.5 Tf
+0.720 0.120 0.180 rg
+300.0 258.0 Td
+(7 casos \(17,9%\)) Tj
+ET
+BT
+/F1 6.9 Tf
+0.300 0.350 0.450 rg
+375.0 258.0 Td
+(7 casos \(17,9%\) \267 Gaveteros A-H \(Sector 2\) y Sector ...) Tj
+ET
+0.40 w
+0.850 0.880 0.920 RG
+28.0 237.0 539.0 16.0 re S
+BT
+/F2 7.5 Tf
+0.100 0.150 0.250 rg
+34.0 242.0 Td
+(4.\260 D7 - Asesoramiento t\351cnico prolongado en mostrador) Tj
+ET
+BT
+/F2 7.5 Tf
+0.720 0.120 0.180 rg
+300.0 242.0 Td
+(5 casos \(12,8%\)) Tj
+ET
+BT
+/F1 6.9 Tf
+0.300 0.350 0.450 rg
+375.0 242.0 Td
+(5 casos \(12,8%\) \267 Mostrador en L \(65 cm / 330 cm\): E...) Tj
+ET
+0.40 w
+0.850 0.880 0.920 RG
+28.0 221.0 539.0 16.0 re S
+BT
+/F2 7.5 Tf
+0.100 0.150 0.250 rg
+34.0 226.0 Td
+(5.\260 D4 - Demora en medici\363n y corte fraccionado de cable Diors) Tj
+ET
+BT
+/F2 7.5 Tf
+0.720 0.120 0.180 rg
+300.0 226.0 Td
+(4 casos \(10,3%\)) Tj
+ET
+BT
+/F1 6.9 Tf
+0.300 0.350 0.450 rg
+375.0 226.0 Td
+(4 c\363digos / 11 pedidos con E5 >= 120 s \(10,3%\) \267 Bobi...) Tj
+ET
+0.40 w
+0.850 0.880 0.920 RG
+28.0 205.0 539.0 16.0 re S
+BT
+/F2 7.5 Tf
+0.100 0.150 0.250 rg
+34.0 210.0 Td
+(6.\260 D1 - Quiebre de stock aparente e inexistentes/obsoletos) Tj
+ET
+BT
+/F2 7.5 Tf
+0.720 0.120 0.180 rg
+300.0 210.0 Td
+(2 casos \(14,0%\)) Tj
+ET
+BT
+/F1 6.9 Tf
+0.300 0.350 0.450 rg
+375.0 210.0 Td
+(+3 a 5 min de b\372squeda infructuosa: 2 casos directos...) Tj
+ET
+BT
+/F2 7.8 Tf
+0.550 0.300 0.050 rg
+32.0 193.0 Td
+(Recepci\363n en Puerta \(Franco\): 5 lotes \(13 cajas\) promedian 96,22 s en R1-R3 y 0,00 s en R4/R5 \(100% truncado \267 20-30 min trabajo diferido\).) Tj
+ET
+0.60 w
+0.750 0.800 0.860 RG
+28.0 34.0 m 567.0 34.0 l S
+BT
+/F1 7.5 Tf
+0.400 0.450 0.520 rg
+28.0 20.0 Td
+(Proyecto AFM - Electro NICO \(Grupo TB4 - UTU\) \267 Relevamiento Gustavo \(n=13\), Ana \(n=14\) y Melina \(n=16\)) Tj
+ET
+BT
+/F2 7.5 Tf
+0.300 0.350 0.450 rg
+515.0 20.0 Td
+(P\341gina 1 de 2) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Length 13019 >>
+stream
+0.059 0.090 0.165 rg
+28.0 770.0 539.0 48.0 re f
+BT
+/F2 11.5 Tf
+1.000 1.000 1.000 rg
+40.0 800.0 Td
+(CUADRO MAESTRO DE KPIs DEL PANEL AFM Y F\323RMULAS MATEM\301TICAS DEL MODELO) Tj
+ET
+BT
+/F1 8.2 Tf
+0.750 0.820 0.920 rg
+40.0 784.0 Td
+(Consolidado de los 10 Indicadores Clave de Desempe\361o \(n = 43 pedidos \267 15.479 s y 5 lotes de recepci\363n\) | Vista: AS-IS) Tj
+ET
+0.950 0.970 0.990 rg
+28.0 720.0 130.0 40.0 re f
+0.60 w
+0.780 0.830 0.890 RG
+28.0 720.0 130.0 40.0 re S
+BT
+/F2 7.2 Tf
+0.300 0.360 0.450 rg
+34.0 748.0 Td
+(Reducci\363n Ciclo Total) Tj
+ET
+BT
+/F2 8.6 Tf
+0.040 0.450 0.320 rg
+34.0 736.0 Td
+(-40,0% \(<= 216,0 s\)) Tj
+ET
+BT
+/F1 6.8 Tf
+0.350 0.400 0.480 rg
+34.0 725.0 Td
+(Desde 360,0 s \(6,00 min\)) Tj
+ET
+0.950 0.970 0.990 rg
+164.0 720.0 130.0 40.0 re f
+0.60 w
+0.780 0.830 0.890 RG
+164.0 720.0 130.0 40.0 re S
+BT
+/F2 7.2 Tf
+0.300 0.360 0.450 rg
+170.0 748.0 Td
+(Factor Dispersi\363n \(FD\)) Tj
+ET
+BT
+/F2 8.6 Tf
+0.040 0.450 0.320 rg
+170.0 736.0 Td
+(5,0x -> 1,0x ABC) Tj
+ET
+BT
+/F1 6.8 Tf
+0.350 0.400 0.480 rg
+170.0 725.0 Td
+(CV Temporal: 74,1%) Tj
+ET
+0.950 0.970 0.990 rg
+300.0 720.0 130.0 40.0 re f
+0.60 w
+0.780 0.830 0.890 RG
+300.0 720.0 130.0 40.0 re S
+BT
+/F2 7.2 Tf
+0.300 0.360 0.450 rg
+306.0 748.0 Td
+(Exactitud ERI y Stock) Tj
+ET
+BT
+/F2 8.6 Tf
+0.040 0.450 0.320 rg
+306.0 736.0 Td
+(86% -> >= 98% ERI) Tj
+ET
+BT
+/F1 6.8 Tf
+0.350 0.400 0.480 rg
+306.0 725.0 Td
+(Delta H = -0,4428 b \(-75,8%\)) Tj
+ET
+0.950 0.970 0.990 rg
+436.0 720.0 130.0 40.0 re f
+0.60 w
+0.780 0.830 0.890 RG
+436.0 720.0 130.0 40.0 re S
+BT
+/F2 7.2 Tf
+0.300 0.360 0.450 rg
+442.0 748.0 Td
+(Eliminaci\363n Obstrucci\363n) Tj
+ET
+BT
+/F2 8.6 Tf
+0.040 0.450 0.320 rg
+442.0 736.0 Td
+(E4 = 0,0 s \267 <= 10% Fallas) Tj
+ET
+BT
+/F1 6.8 Tf
+0.350 0.400 0.480 rg
+442.0 725.0 Td
+(Desde 58,1% pedidos c/ falla) Tj
+ET
+0.120 0.160 0.240 rg
+28.0 693.0 539.0 17.0 re f
+BT
+/F2 7.5 Tf
+1.000 1.000 1.000 rg
+32.0 698.5 Td
+(C\363digo) Tj
+ET
+BT
+/F2 7.5 Tf
+1.000 1.000 1.000 rg
+72.0 698.5 Td
+(Indicador Clave de Desempe\361o \(KPI\) y F\363rmula Base) Tj
+ET
+BT
+/F2 7.5 Tf
+0.980 0.650 0.650 rg
+282.0 698.5 Td
+(Estado Actual \(As-Is\)) Tj
+ET
+BT
+/F2 7.5 Tf
+0.550 0.950 0.750 rg
+390.0 698.5 Td
+(Meta Propuesta \(To-Be\)) Tj
+ET
+BT
+/F2 7.5 Tf
+1.000 1.000 1.000 rg
+492.0 698.5 Td
+(Impacto / Avance) Tj
+ET
+0.45 w
+0.840 0.870 0.910 RG
+28.0 655.0 539.0 38.0 re S
+BT
+/F2 7.8 Tf
+0.040 0.380 0.580 rg
+32.0 679.0 Td
+(KPI-01) Tj
+ET
+BT
+/F1 6.3 Tf
+0.350 0.400 0.500 rg
+32.0 668.0 Td
+(Operativo / HTC) Tj
+ET
+BT
+/F2 7.8 Tf
+0.080 0.120 0.200 rg
+72.0 680.0 Td
+(Tiempo de Ciclo Total Ponderado \(n = 43\)) Tj
+ET
+BT
+/F1 6.7 Tf
+0.300 0.350 0.440 rg
+72.0 668.0 Td
+(F\363rmula/Base: Sigma  E1..E8 \(Gustavo 379,3 s | Ana 423,6 s | Melina 288,6 s\)) Tj
+ET
+BT
+/F2 7.4 Tf
+0.720 0.140 0.200 rg
+282.0 674.0 Td
+(360,0 s \(6,00 min\)) Tj
+ET
+BT
+/F2 7.4 Tf
+0.040 0.480 0.320 rg
+390.0 674.0 Td
+(<= 216,0 s \(3,60 min\)) Tj
+ET
+BT
+/F2 6.9 Tf
+0.550 0.320 0.040 rg
+492.0 680.0 Td
+(-40,0% \(-144,0 s\)) Tj
+ET
+BT
+/F1 6.3 Tf
+0.300 0.350 0.450 rg
+492.0 671.0 Td
+(Nivel \(As-Is\): 42%) Tj
+ET
+0.860 0.890 0.930 rg
+492.0 661.0 68.0 5.0 re f
+0.850 0.220 0.300 rg
+492.0 661.0 29.0 5.0 re f
+0.970 0.980 0.990 rg
+28.0 617.0 539.0 38.0 re f
+0.45 w
+0.840 0.870 0.910 RG
+28.0 617.0 539.0 38.0 re S
+BT
+/F2 7.8 Tf
+0.040 0.380 0.580 rg
+32.0 641.0 Td
+(KPI-02) Tj
+ET
+BT
+/F1 6.3 Tf
+0.350 0.400 0.500 rg
+32.0 630.0 Td
+(Lean / Muda F\355sica) Tj
+ET
+BT
+/F2 7.8 Tf
+0.080 0.120 0.200 rg
+72.0 642.0 Td
+(Proporci\363n de Muda F\355sica en el Ciclo) Tj
+ET
+BT
+/F1 6.7 Tf
+0.300 0.350 0.440 rg
+72.0 630.0 Td
+(F\363rmula/Base: \(E2 + E3 + E4 + E6\) / Ciclo Total) Tj
+ET
+BT
+/F2 7.4 Tf
+0.720 0.140 0.200 rg
+282.0 636.0 Td
+(35,3% \(127,2 s\)) Tj
+ET
+BT
+/F2 7.4 Tf
+0.040 0.480 0.320 rg
+390.0 636.0 Td
+(<= 17,5% \(<= 37,7 s\)) Tj
+ET
+BT
+/F2 6.9 Tf
+0.550 0.320 0.040 rg
+492.0 642.0 Td
+(-70,4% \(-89,5 s\)) Tj
+ET
+BT
+/F1 6.3 Tf
+0.300 0.350 0.450 rg
+492.0 633.0 Td
+(Nivel \(As-Is\): 35%) Tj
+ET
+0.860 0.890 0.930 rg
+492.0 623.0 68.0 5.0 re f
+0.850 0.220 0.300 rg
+492.0 623.0 24.0 5.0 re f
+0.45 w
+0.840 0.870 0.910 RG
+28.0 579.0 539.0 38.0 re S
+BT
+/F2 7.8 Tf
+0.040 0.380 0.580 rg
+32.0 603.0 Td
+(KPI-03) Tj
+ET
+BT
+/F1 6.3 Tf
+0.350 0.400 0.500 rg
+32.0 592.0 Td
+(Recorrido y B\372squeda) Tj
+ET
+BT
+/F2 7.8 Tf
+0.080 0.120 0.200 rg
+72.0 604.0 Td
+(Caminata \(E2+E6\) y B\372squeda por Memoria \(E3\)) Tj
+ET
+BT
+/F1 6.7 Tf
+0.300 0.350 0.440 rg
+72.0 592.0 Td
+(F\363rmula/Base: E2 \(48,5 s\) + E6 \(19,5 s\) | E3 \(39,6 s\)) Tj
+ET
+BT
+/F2 7.4 Tf
+0.720 0.140 0.200 rg
+282.0 598.0 Td
+(68,0 s cam. | 39,6 s b\372sq.) Tj
+ET
+BT
+/F2 7.4 Tf
+0.040 0.480 0.320 rg
+390.0 598.0 Td
+(<= 23,8 s cam. | <= 13,9 s b\372sq.) Tj
+ET
+BT
+/F2 6.9 Tf
+0.550 0.320 0.040 rg
+492.0 604.0 Td
+(-65,0% en ambos) Tj
+ET
+BT
+/F1 6.3 Tf
+0.300 0.350 0.450 rg
+492.0 595.0 Td
+(Nivel \(As-Is\): 38%) Tj
+ET
+0.860 0.890 0.930 rg
+492.0 585.0 68.0 5.0 re f
+0.850 0.220 0.300 rg
+492.0 585.0 26.0 5.0 re f
+0.970 0.980 0.990 rg
+28.0 541.0 539.0 38.0 re f
+0.45 w
+0.840 0.870 0.910 RG
+28.0 541.0 539.0 38.0 re S
+BT
+/F2 7.8 Tf
+0.040 0.380 0.580 rg
+32.0 565.0 Td
+(KPI-04) Tj
+ET
+BT
+/F1 6.3 Tf
+0.350 0.400 0.500 rg
+32.0 554.0 Td
+(Flujo / Pasillos) Tj
+ET
+BT
+/F2 7.8 Tf
+0.080 0.120 0.200 rg
+72.0 566.0 Td
+(Obstrucci\363n de Pasillos y Remoci\363n Cajas \(E4 / D3\)) Tj
+ET
+BT
+/F1 6.7 Tf
+0.300 0.350 0.440 rg
+72.0 554.0 Td
+(F\363rmula/Base: Pasillos 50 a 77 cm \(S2 y S3\) \267 Pico m\341x 365 s \(Obs 4 Ana\)) Tj
+ET
+BT
+/F2 7.4 Tf
+0.720 0.140 0.200 rg
+282.0 560.0 Td
+(19,6 s prom. \(11 casos / 28,2%\)) Tj
+ET
+BT
+/F2 7.4 Tf
+0.040 0.480 0.320 rg
+390.0 560.0 Td
+(0,0 s \(0 casos \267 Pasillos >= 90 cm\)) Tj
+ET
+BT
+/F2 6.9 Tf
+0.550 0.320 0.040 rg
+492.0 566.0 Td
+(-100% obstrucci\363n) Tj
+ET
+BT
+/F1 6.3 Tf
+0.300 0.350 0.450 rg
+492.0 557.0 Td
+(Nivel \(As-Is\): 20%) Tj
+ET
+0.860 0.890 0.930 rg
+492.0 547.0 68.0 5.0 re f
+0.850 0.220 0.300 rg
+492.0 547.0 14.0 5.0 re f
+0.45 w
+0.840 0.870 0.910 RG
+28.0 503.0 539.0 38.0 re S
+BT
+/F2 7.8 Tf
+0.040 0.380 0.580 rg
+32.0 527.0 Td
+(KPI-05) Tj
+ET
+BT
+/F1 6.3 Tf
+0.350 0.400 0.500 rg
+32.0 516.0 Td
+(Recepci\363n \(5 Lotes\)) Tj
+ET
+BT
+/F2 7.8 Tf
+0.080 0.120 0.200 rg
+72.0 528.0 Td
+(Recepci\363n Truncada en Puerta y Trabajo Diferido) Tj
+ET
+BT
+/F1 6.7 Tf
+0.300 0.350 0.440 rg
+72.0 516.0 Td
+(F\363rmula/Base: R1-R3 \(96,22 s\) vs R4 Ubicaci\363n + R5 Guardado \(13 cajas\)) Tj
+ET
+BT
+/F2 7.4 Tf
+0.720 0.140 0.200 rg
+282.0 522.0 Td
+(R4/R5 = 0,00 s \(100% truncado \267 20-30 min dif.\)) Tj
+ET
+BT
+/F2 7.4 Tf
+0.040 0.480 0.320 rg
+390.0 522.0 Td
+(100% guardado directo con staging) Tj
+ET
+BT
+/F2 6.9 Tf
+0.550 0.320 0.040 rg
+492.0 528.0 Td
+(-100% cajas en suelo) Tj
+ET
+BT
+/F1 6.3 Tf
+0.300 0.350 0.450 rg
+492.0 519.0 Td
+(Nivel \(As-Is\): 15%) Tj
+ET
+0.860 0.890 0.930 rg
+492.0 509.0 68.0 5.0 re f
+0.850 0.220 0.300 rg
+492.0 509.0 10.0 5.0 re f
+0.970 0.980 0.990 rg
+28.0 465.0 539.0 38.0 re f
+0.45 w
+0.840 0.870 0.910 RG
+28.0 465.0 539.0 38.0 re S
+BT
+/F2 7.8 Tf
+0.040 0.380 0.580 rg
+32.0 489.0 Td
+(KPI-06) Tj
+ET
+BT
+/F1 6.3 Tf
+0.350 0.400 0.500 rg
+32.0 478.0 Td
+(Calidad / Pareto) Tj
+ET
+BT
+/F2 7.8 Tf
+0.080 0.120 0.200 rg
+72.0 490.0 Td
+(Frecuencia de Pedidos con Anomal\355as \(D1-D9\)) Tj
+ET
+BT
+/F1 6.7 Tf
+0.300 0.350 0.440 rg
+72.0 478.0 Td
+(F\363rmula/Base: Pedidos con falla / n = 43 \(39 eventos registrados\)) Tj
+ET
+BT
+/F2 7.4 Tf
+0.720 0.140 0.200 rg
+282.0 484.0 Td
+(58,1% \(25/43 pedidos\)) Tj
+ET
+BT
+/F2 7.4 Tf
+0.040 0.480 0.320 rg
+390.0 484.0 Td
+(<= 10,0% pedidos con falla) Tj
+ET
+BT
+/F2 6.9 Tf
+0.550 0.320 0.040 rg
+492.0 490.0 Td
+(-48,1 pts \(-82,8%\)) Tj
+ET
+BT
+/F1 6.3 Tf
+0.300 0.350 0.450 rg
+492.0 481.0 Td
+(Nivel \(As-Is\): 30%) Tj
+ET
+0.860 0.890 0.930 rg
+492.0 471.0 68.0 5.0 re f
+0.850 0.220 0.300 rg
+492.0 471.0 20.0 5.0 re f
+0.45 w
+0.840 0.870 0.910 RG
+28.0 427.0 539.0 38.0 re S
+BT
+/F2 7.8 Tf
+0.040 0.380 0.580 rg
+32.0 451.0 Td
+(KPI-07) Tj
+ET
+BT
+/F1 6.3 Tf
+0.350 0.400 0.500 rg
+32.0 440.0 Td
+(Control Stock / ISO) Tj
+ET
+BT
+/F2 7.8 Tf
+0.080 0.120 0.200 rg
+72.0 452.0 Td
+(Exactitud de Registro de Inventario \(ERI\) y Quiebres \(D1\)) Tj
+ET
+BT
+/F1 6.7 Tf
+0.300 0.350 0.440 rg
+72.0 440.0 Td
+(F\363rmula/Base: L\355nea base 88% \(falla 12%\) | Emp\355rico n=43: 86% \(6/43 pedidos\)) Tj
+ET
+BT
+/F2 7.4 Tf
+0.720 0.140 0.200 rg
+282.0 446.0 Td
+(86,0% emp\355rico \(88,0% base\)) Tj
+ET
+BT
+/F2 7.4 Tf
+0.040 0.480 0.320 rg
+390.0 446.0 Td
+(>= 98,0% \(Meta ISO 9001\)) Tj
+ET
+BT
+/F2 6.9 Tf
+0.550 0.320 0.040 rg
+492.0 452.0 Td
+(+12,0 pts ERI \(-85,7% falla\)) Tj
+ET
+BT
+/F1 6.3 Tf
+0.300 0.350 0.450 rg
+492.0 443.0 Td
+(Nivel \(As-Is\): 55%) Tj
+ET
+0.860 0.890 0.930 rg
+492.0 433.0 68.0 5.0 re f
+0.850 0.220 0.300 rg
+492.0 433.0 37.0 5.0 re f
+0.970 0.980 0.990 rg
+28.0 389.0 539.0 38.0 re f
+0.45 w
+0.840 0.870 0.910 RG
+28.0 389.0 539.0 38.0 re S
+BT
+/F2 7.8 Tf
+0.040 0.380 0.580 rg
+32.0 413.0 Td
+(KPI-08) Tj
+ET
+BT
+/F1 6.3 Tf
+0.350 0.400 0.500 rg
+32.0 402.0 Td
+(Shannon Ciclo) Tj
+ET
+BT
+/F2 7.8 Tf
+0.080 0.120 0.200 rg
+72.0 414.0 Td
+(Entrop\355a del Ciclo Operativo \(H_ciclo\)) Tj
+ET
+BT
+/F1 6.7 Tf
+0.300 0.350 0.440 rg
+72.0 402.0 Td
+(F\363rmula/Base: H\(P\) = -Sigma  p_i \267 log2\(p_i\) sobre H_max = 2,000 bits) Tj
+ET
+BT
+/F2 7.4 Tf
+0.720 0.140 0.200 rg
+282.0 408.0 Td
+(1,876 bits \(93,8% H_max\)) Tj
+ET
+BT
+/F2 7.4 Tf
+0.040 0.480 0.320 rg
+390.0 408.0 Td
+(<= 1,350 bits \(<= 67,5% H_max\)) Tj
+ET
+BT
+/F2 6.9 Tf
+0.550 0.320 0.040 rg
+492.0 414.0 Td
+(-28,0% \(D_KL = 0,1451 b\)) Tj
+ET
+BT
+/F1 6.3 Tf
+0.300 0.350 0.450 rg
+492.0 405.0 Td
+(Nivel \(As-Is\): 28%) Tj
+ET
+0.860 0.890 0.930 rg
+492.0 395.0 68.0 5.0 re f
+0.850 0.220 0.300 rg
+492.0 395.0 19.0 5.0 re f
+0.45 w
+0.840 0.870 0.910 RG
+28.0 351.0 539.0 38.0 re S
+BT
+/F2 7.8 Tf
+0.040 0.380 0.580 rg
+32.0 375.0 Td
+(KPI-09) Tj
+ET
+BT
+/F1 6.3 Tf
+0.350 0.400 0.500 rg
+32.0 364.0 Td
+(Shannon Espacial) Tj
+ET
+BT
+/F2 7.8 Tf
+0.080 0.120 0.200 rg
+72.0 376.0 Td
+(Entrop\355a Espacial del Layout \(H_esp\) y Obsoletos) Tj
+ET
+BT
+/F1 6.7 Tf
+0.300 0.350 0.440 rg
+72.0 364.0 Td
+(F\363rmula/Base: H_esp = log2\(k\) \(k = 4 a 5 sectores\) + % Plafones obsoletos) Tj
+ET
+BT
+/F2 7.4 Tf
+0.720 0.140 0.200 rg
+282.0 370.0 Td
+(2,000 a 2,322 bits \(15-20% obs.\)) Tj
+ET
+BT
+/F2 7.4 Tf
+0.040 0.480 0.320 rg
+390.0 370.0 Td
+(0,000 bits \(k = 1 ABC \267 0% obs.\)) Tj
+ET
+BT
+/F2 6.9 Tf
+0.550 0.320 0.040 rg
+492.0 376.0 Td
+(-100% dispersi\363n \(D_KL <= 2,7504\)) Tj
+ET
+BT
+/F1 6.3 Tf
+0.300 0.350 0.450 rg
+492.0 367.0 Td
+(Nivel \(As-Is\): 18%) Tj
+ET
+0.860 0.890 0.930 rg
+492.0 357.0 68.0 5.0 re f
+0.850 0.220 0.300 rg
+492.0 357.0 12.0 5.0 re f
+0.970 0.980 0.990 rg
+28.0 313.0 539.0 38.0 re f
+0.45 w
+0.840 0.870 0.910 RG
+28.0 313.0 539.0 38.0 re S
+BT
+/F2 7.8 Tf
+0.040 0.380 0.580 rg
+32.0 337.0 Td
+(KPI-10) Tj
+ET
+BT
+/F1 6.3 Tf
+0.350 0.400 0.500 rg
+32.0 326.0 Td
+(Neguentrop\355a Stock) Tj
+ET
+BT
+/F2 7.8 Tf
+0.080 0.120 0.200 rg
+72.0 338.0 Td
+(Entrop\355a Binaria de Stock \(H_b\) y Neguentrop\355a \(Delta H\)) Tj
+ET
+BT
+/F1 6.7 Tf
+0.300 0.350 0.440 rg
+72.0 326.0 Td
+(F\363rmula/Base: H_b\(p\) = -p\267log2\(p\) - \(1-p\)\267log2\(1-p\) | Delta H = H_meta - H_emp) Tj
+ET
+BT
+/F2 7.4 Tf
+0.720 0.140 0.200 rg
+282.0 332.0 Td
+(0,5842 bits \(D_KL = 0,2310 b\)) Tj
+ET
+BT
+/F2 7.4 Tf
+0.040 0.480 0.320 rg
+390.0 332.0 Td
+(0,1414 bits \(Delta H = -0,4428 b\)) Tj
+ET
+BT
+/F2 6.9 Tf
+0.550 0.320 0.040 rg
+492.0 338.0 Td
+(-75,80% desorden stock) Tj
+ET
+BT
+/F1 6.3 Tf
+0.300 0.350 0.450 rg
+492.0 329.0 Td
+(Nivel \(As-Is\): 32%) Tj
+ET
+0.860 0.890 0.930 rg
+492.0 319.0 68.0 5.0 re f
+0.850 0.220 0.300 rg
+492.0 319.0 22.0 5.0 re f
+0.940 0.970 0.950 rg
+28.0 197.0 539.0 106.0 re f
+0.70 w
+0.600 0.800 0.680 RG
+28.0 197.0 539.0 106.0 re S
+BT
+/F2 8.5 Tf
+0.040 0.420 0.280 rg
+36.0 289.0 Td
+(COMPENDIO DE F\323RMULAS MATEM\301TICAS APLICADAS EN EL MODELO AFM) Tj
+ET
+BT
+/F1 7.2 Tf
+0.150 0.220 0.300 rg
+36.0 275.0 Td
+(1. Ciclo Ponderado y Muda: T_ciclo = Sigma E_j = \(Sigma T_i\)/n = 15.479/43 = 360,0 s | %Muda = \(E2+E3+E4+E6\)/T_ciclo = 127,2/360,0 = 35,3%) Tj
+ET
+BT
+/F1 7.2 Tf
+0.150 0.220 0.300 rg
+36.0 262.0 Td
+(2. Factor de Dispersi\363n Espacial y Temporal: FD_esp = k / k_opt \(4,0x a 5,0x -> 1,0x\) | ID_esp = \(k-1\)/\(k_max-1\) | CV = \(sigma / media\) x 100 = 72,1%) Tj
+ET
+BT
+/F1 7.2 Tf
+0.150 0.220 0.300 rg
+36.0 249.0 Td
+(3. Entrop\355a del Ciclo y Espacial \(Shannon\): H\(P\) = -Sigma p_i * log2\(p_i\) = 1,876 b \(H_max = 2,000 b\) | H_esp\(k\) = log2\(k\) = 2,000 a 2,322 bits) Tj
+ET
+BT
+/F1 7.2 Tf
+0.150 0.220 0.300 rg
+36.0 236.0 Td
+(4. Entrop\355a Binaria ERI y Neguentrop\355a: H_b\(p\) = -p*log2\(p\) - \(1-p\)*log2\(1-p\) = 0,5842 b \(ERI 86%\) | Delta H = H_meta - H_emp = -0,4428 b \(-75,80%\)) Tj
+ET
+BT
+/F1 7.2 Tf
+0.150 0.220 0.300 rg
+36.0 223.0 Td
+(5. Divergencia Kullback-Leibler: D_KL\(P||Q\) = Sigma p_i * log2\(p_i / q_i\) -> Stock ERI: 0,2310 b | Ciclo: 0,1451 b | Anomal\355as: 1,0142 b) Tj
+ET
+BT
+/F2 7.2 Tf
+0.040 0.420 0.280 rg
+36.0 210.0 Td
+(6. Ruta M\355nima por Vanos CAD \(Dijkstra\) e Isometr\355a 3D: L_min = min Sigma ||P_{k+1}-P_k|| \(vanos A1..A9\) | y_iso = \(rx+ry\)*0,32*z_m - z*0,82*z_m) Tj
+ET
+0.60 w
+0.750 0.800 0.860 RG
+28.0 34.0 m 567.0 34.0 l S
+BT
+/F1 7.5 Tf
+0.400 0.450 0.520 rg
+28.0 20.0 Td
+(Proyecto AFM - Electro NICO \(Grupo TB4 - UTU\) \267 Tablero de Control de KPIs y F\363rmulas Matem\341ticas) Tj
+ET
+BT
+/F2 7.5 Tf
+0.300 0.350 0.450 rg
+515.0 20.0 Td
+(P\341gina 2 de 2) Tj
+ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000257 00000 n 
+0000000393 00000 n 
+0000000490 00000 n 
+0000000592 00000 n 
+0000014031 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+27103
+%%EOF
